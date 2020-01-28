@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PSP: Chatbot - Firebase</string>
+    <string name="historial">Historial conversaciones</string>
+    <string name="btHablar">Hablar</string>
+    <string name="etMensaje">Mensaje</string>
+    <string name="btDecir">Decir</string>
+    <string name="tvB">Bot:</string>
+    <string name="dime_algo">Dime algo</string>
+    <string name="title_activity_conversacion">Conversacion</string>
+    <string name="login">LOGIN</string>
+    <string name="usuario">Usuario</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="title_activity_historial">Historial</string>
+    <string name="frase_espanol">Frase ES:</string>
+    <string name="frase_ingles">Frase EN:</string>
+    <string name="hora">Hora:</string>
+    <string name="hablante">Hablante:</string>
+    <string name="title_activity_registrar">RegistrarActivity</string>
+    <string name="registrarse">REGISTRARSE</string>
+</resources>
